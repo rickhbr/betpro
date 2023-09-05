@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "631331521044",
+    "project_id": "hackeandoabetpro",
+    "storage_bucket": "hackeandoabetpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631331521044:android:ee91c48a5ed969718a1d01",
+        "android_client_info": {
+          "package_name": "br.com.hackeandbetpro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631331521044-8ag2mnv5pnlht3841c3eub1preu7msnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.hackeandbetpro.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "631331521044-l6gnge58tqo15fb0kdna2ulh68u9vtkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAI7NGe6pwmJ4q7_Ga32KIamEYfGz-MRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631331521044-l6gnge58tqo15fb0kdna2ulh68u9vtkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631331521044-j6tsu7p3mt0h9elk9n94oumft4r8re6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.hackeandbetpro.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
